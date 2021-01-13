@@ -13,3 +13,7 @@ L27
 Winnin
 Longhorn
 NITR0
+
+
+
+Discord is tri#0007
